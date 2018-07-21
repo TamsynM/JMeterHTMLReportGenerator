@@ -1,0 +1,14 @@
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JMeterHTMLReportGenerator.exe.config
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JMeterHTMLReportGenerator.exe.manifest
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JMeterHTMLReportGenerator.application
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JMeterHTMLReportGenerator.exe
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JMeterHTMLReportGenerator.pdb
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JMeterHTMLReportGenerator.exe.manifest
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JMeterHTMLReportGenerator.application
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JMeterHTMLReportGenerator.exe
+C:\Users\tamsynmurphy\Source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JMeterHTMLReportGenerator.pdb
